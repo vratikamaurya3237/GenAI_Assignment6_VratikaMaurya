@@ -1,4 +1,4 @@
-#ASSIGNMENT 6 (Exception Handling): This assignment has 5 Tasks covering Python's exception handling system - 'try, except, else, finally', and raising custom exceptions with 'raise'.
+#__ASSIGNMENT 6__ (Exception Handling): This assignment has 5 Tasks covering Python's exception handling system - 'try, except, else, finally', and raising custom exceptions with 'raise'.
 
 
 ##Task 1:
